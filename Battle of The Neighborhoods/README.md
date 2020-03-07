@@ -1,5 +1,5 @@
 <h1>Battle of the Neighborhoods!</h1>
-<h2>Topic: Determining the best location for a Business start-up in the city of Calgary, AB Canada.</h2> 
+<h2>Topic: Determining the best location for a Business start-up in the city of Calgary, AB Canada</h2> 
 <h3>Author: Karim Khan</h3>
 <h3>March 2020</h3> 
 
